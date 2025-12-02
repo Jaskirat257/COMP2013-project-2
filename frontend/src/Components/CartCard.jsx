@@ -1,5 +1,8 @@
 import QuantityCounter from "./QuantityCounter";
 
+//Author: Jaskirat
+//Description: PROJECT-2
+
 export default function CartCard({
   id,
   image,

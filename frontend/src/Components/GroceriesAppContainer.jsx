@@ -1,3 +1,5 @@
+//Author: Jaskirat
+//Description: PROJECT-2
 import { useState } from "react";
 import CartContainer from "./CartContainer";
 import ProductsContainer from "./ProductsContainer";

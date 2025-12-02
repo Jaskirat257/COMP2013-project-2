@@ -1,3 +1,6 @@
+//Author: Jaskirat
+//Description: PROJECT-2
+
 import CartCard from "./CartCard";
 export default function CartContainer({
   cartList,
