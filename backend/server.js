@@ -1,3 +1,6 @@
+//Author: Jaskirat
+//Description: PROJECT-2
+
 // Import required packages
 const express = require("express");
 const server = express();

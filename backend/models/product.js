@@ -1,5 +1,8 @@
 const mongoose = require("mongoose");
 
+//Author: Jaskirat
+//Description: PROJECT-2
+
 const productSchema = new mongoose.Schema({
 
   // Product name 
